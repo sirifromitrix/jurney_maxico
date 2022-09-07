@@ -1,0 +1,10 @@
+core.*
+.DS_Store
+cache
+cache/*
+wp-admin/*
+wp-includes/*
+Newsletters/*
+wp-content/*
+wp-content/uploads/*
+wp-content/upgrade/*
